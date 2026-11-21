@@ -1,0 +1,26 @@
+{
+  "name": "CartPilot",
+  "short_name": "CartPilot",
+  "description": "Shop smarter, walk less, spend less.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf7ef",
+  "theme_color": "#2f7d4f",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='42' fill='%232f7d4f'/><path d='M40 64h14l18 87a14 14 0 0 0 14 11h56a14 14 0 0 0 14-10.5L172 88H60' stroke='%23fff' stroke-width='14' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='88' cy='168' r='10' fill='%23fff'/><circle cx='144' cy='168' r='10' fill='%23fff'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='112' fill='%232f7d4f'/><path d='M100 168h38l48 232a36 36 0 0 0 36 30h152a36 36 0 0 0 36-28L460 232H158' stroke='%23fff' stroke-width='36' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='232' cy='450' r='28' fill='%23fff'/><circle cx='386' cy='450' r='28' fill='%23fff'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "lifestyle", "utilities"],
+  "screenshots": []
+}
